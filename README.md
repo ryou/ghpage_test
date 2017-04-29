@@ -1,5 +1,7 @@
 # GitHub Pagesのテスト
 
+[このリポジトリのGitHubPage](https://ryou.github.io/ghpage_test/)
+
 ## 作り方
 
 リポジトリのSettingのGitHub Pagesの項目
